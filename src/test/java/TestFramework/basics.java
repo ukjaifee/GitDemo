@@ -39,7 +39,7 @@ public void getPlaceAPI()
 		
 		System.out.println("I am comitting the code");
 		
-		System.out.println("I am commiting code from git stuff");
+		System.out.println("I am commiting code from git stuffs");
 	
 }
 
