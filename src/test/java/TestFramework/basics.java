@@ -38,6 +38,8 @@ public void getPlaceAPI()
 		//Header responses
 		
 		System.out.println("I am comitting the code");
+		
+		System.out.println("I am commiting code from git stuff");
 	
 }
 
