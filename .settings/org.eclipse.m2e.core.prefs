@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 activeProfiles=GitStuff
+=======
+activeProfiles=GetDemo
+>>>>>>> ec784ee6d9606e4ed9e1b88a8907b9395b4910cd
 eclipse.preferences.version=1
 resolveWorkspaceProjects=true
 version=1

@@ -36,6 +36,8 @@ public void getPlaceAPI()
 		//Content type 
 		//Body
 		//Header responses
+		
+		System.out.println("I am comitting the code");
 	
 }
 
