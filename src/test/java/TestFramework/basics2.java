@@ -27,7 +27,6 @@ public class basics2 {
 	// Create a place =response (place id)
 		
 		// delete Place = (Request - Place id)	
-		
-
+		System.out.println("M commiting the code from basics2");
 	}
 }
