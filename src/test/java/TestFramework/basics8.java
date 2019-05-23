@@ -63,7 +63,10 @@ public class basics8 extends basics7{
 		extract().response();
 		 JsonPath js= ReusableMethods.rawToJson(res);
 		String sessionid= js.get("session.value");
+		System.out.println("Want to push some code from  gitstuff");
 		return sessionid;
+		
+		
 	}
 		}
 	
